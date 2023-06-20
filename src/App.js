@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Primera Pagina en React
-          🎁** Learn React **🎈🎈🎈
+          Primera Pagina en React I 🎁** Learn React **🎈🎈🎈
         </a>
       </header>
     </div>
